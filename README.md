@@ -28,7 +28,7 @@ Enjoy the unique effects of each delicious item as you explore and survive in Mi
 ##  Installation  
 
 1. **Download the Mod:**  
-   Grab the latest version of the mod, **"lovable-indian-food-mod.jar"**, from the [Releases](#) page or [Modrinth](https://modrinth.com/mod/indian-food).  
+   Grab the latest version of the mod, **"lovable-indian-food-mod.jar"**, from the [Releases](#) page or [Modrinth](https://modrinth.com/mod/lovable-indian-food-mod).  
 
 2. **Install the Mod:**  
    Place the `.jar` file into the `"%appdata%/.minecraft/mods"` folder.  
