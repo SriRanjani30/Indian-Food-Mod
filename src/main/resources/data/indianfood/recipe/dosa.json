@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:wheat" },
+    { "item": "minecraft:wheat" },
+    { "item": "minecraft:wheat" },
+    { "item": "minecraft:egg" },
+    { "item": "minecraft:egg" },
+    { "item": "minecraft:egg" }
+  ],
+  "result": {
+    "item": "indianfood:dosa",
+    "count": 1
+  }
+}

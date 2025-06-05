@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "indianfood",
+	"version": "${version}",
+	"name": "Indian Food",
+	"description": "Add authentic Indian cuisine to Minecraft! Craft and enjoy delicious items like Paneer, Gulabjamun, Lassi, Dosa, Roti, and Idli, each with unique effects to spice up your gameplay and give you tasty buffs. Explore the rich flavors of India right in your Minecraft world!",
+	"authors": [
+		"Sri"
+	],
+	"contact": {
+		"homepage": "https://github.com/SriRanjani30",
+		"sources": "https://github.com/SriRanjani30/Indian-Food-Mod"
+	},
+	"license": "CC-BY-NC-4.0",
+	"icon": "assets/indianfood/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.sriranjani.indianfood.IndianFood"
+		],
+		"fabric-datagen": [
+
+		],
+		"client" : [
+			"com.sriranjani.indianfood.IndianFoodClient"
+		]
+	},
+	"mixins": [
+
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

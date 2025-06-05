@@ -1,0 +1,17 @@
+{
+  "item.indianfood.dosa": "Dosa",
+  "item.indianfood.samosa": "Samosa",
+  "item.indianfood.paneer": "Paneer",
+  "item.indianfood.gulabjamun": "Gulab Jamun",
+  "item.indianfood.lassi": "Lassi",
+  "item.indianfood.roti": "Roti",
+  "item.indianfood.idli": "Idli",
+
+  "itemTooltip.indianfood.samosa": "A spicy and crispy delight!",
+  "itemTooltip.indianfood.paneer": "Rich and creamy, a great vegetarian protein!",
+  "itemTooltip.indianfood.gulabjamun": "Soft sweet treat soaked in syrup — restores health quickly!",
+  "itemTooltip.indianfood.lassi": "Cool and refreshing, cures poison effects!",
+  "itemTooltip.indianfood.dosa": "Crispy and golden, gives you a speedy start!",
+  "itemTooltip.indianfood.roti": "Simple flatbread, fills you up steadily.",
+  "itemTooltip.indianfood.idli": "Steamed and soft — light but energizing!"
+}
